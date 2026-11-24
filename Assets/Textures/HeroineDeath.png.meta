@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: b60b10d93ffcff64f987edb89804a9c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7795522082475304893
+    second: L_dead_6x5_0
+  - first:
+      213: 486715368850984965
+    second: L_dead_6x5_1
+  - first:
+      213: 1851849958974522808
+    second: L_dead_6x5_2
+  - first:
+      213: -7400406667843673345
+    second: L_dead_6x5_3
+  - first:
+      213: 8891002474989014129
+    second: L_dead_6x5_4
+  - first:
+      213: 9076371210635787278
+    second: L_dead_6x5_5
+  - first:
+      213: -4361933235474895146
+    second: L_dead_6x5_6
+  - first:
+      213: -1632044395188836874
+    second: L_dead_6x5_7
+  - first:
+      213: 2501237631250536876
+    second: L_dead_6x5_8
+  - first:
+      213: 6878507030325087093
+    second: L_dead_6x5_9
+  - first:
+      213: -5736285520017427497
+    second: L_dead_6x5_10
+  - first:
+      213: -2104922444403630261
+    second: L_dead_6x5_11
+  - first:
+      213: 2595631005891539644
+    second: L_dead_6x5_12
+  - first:
+      213: -7858517447827163959
+    second: L_dead_6x5_13
+  - first:
+      213: -3445919881669456315
+    second: L_dead_6x5_14
+  - first:
+      213: 223011434055731442
+    second: L_dead_6x5_15
+  - first:
+      213: 307614346325257624
+    second: L_dead_6x5_16
+  - first:
+      213: 8548409934540583312
+    second: L_dead_6x5_17
+  - first:
+      213: 2207614131642212866
+    second: L_dead_6x5_18
+  - first:
+      213: 5473507908172420020
+    second: L_dead_6x5_19
+  - first:
+      213: 5148519433819433801
+    second: L_dead_6x5_20
+  - first:
+      213: 8756743423962669334
+    second: L_dead_6x5_21
+  - first:
+      213: -1017348153558179981
+    second: L_dead_6x5_22
+  - first:
+      213: 8247672448596460675
+    second: L_dead_6x5_23
+  - first:
+      213: -3877390139342569535
+    second: L_dead_6x5_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: L_dead_6x5_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 331
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348985be7fdb0d390800000000000000
+      internalID: -7795522082475304893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_dead_6x5_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 331
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500161b9c0921c600800000000000000
+      internalID: 486715368850984965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_dead_6x5_2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 331
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b58ff5e9b713b910800000000000000
+      internalID: 1851849958974522808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_dead_6x5_3
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 331
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2eeb938597c4990800000000000000
+      internalID: -7400406667843673345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_dead_6x5_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 331
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cc6daf4af236b70800000000000000
+      internalID: 8891002474989014129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_dead_6x5_5
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 331
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c3783078fb5fd70800000000000000
+      internalID: 9076371210635787278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_dead_6x5_6
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 253
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de6c8535dc4773c0800000000000000
+      internalID: -4361933235474895146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_dead_6x5_7
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 250
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f52a1ff440d959e0800000000000000
+      internalID: -1632044395188836874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_dead_6x5_8
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 255
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9178d9f5e26b220800000000000000
+      internalID: 2501237631250536876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_dead_6x5_9
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 263
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bcd8f33bd557f50800000000000000
+      internalID: 6878507030325087093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_dead_6x5_10
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 264
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3f42136be9460b0800000000000000
+      internalID: -5736285520017427497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_dead_6x5_11
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 260
+        width: 54
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f139d6030d9c2e0800000000000000
+      internalID: -2104922444403630261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_dead_6x5_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 173
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2b72ac5a8850420800000000000000
+      internalID: 2595631005891539644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_dead_6x5_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 173
+        width: 54
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c47d057400f0f290800000000000000
+      internalID: -7858517447827163959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_dead_6x5_14
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 171
+        width: 54
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ec2a8ff12ad20d0800000000000000
+      internalID: -3445919881669456315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_dead_6x5_15
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 164
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f80ebbb7bb481300800000000000000
+      internalID: 223011434055731442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_dead_6x5_16
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 166
+        width: 53
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89de7804e9dd44400800000000000000
+      internalID: 307614346325257624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_dead_6x5_17
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 168
+        width: 52
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09136b64b8d02a670800000000000000
+      internalID: 8548409934540583312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_dead_6x5_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 92
+        width: 52
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202aaa53b5503ae10800000000000000
+      internalID: 2207614131642212866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_dead_6x5_19
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 90
+        width: 53
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b398ed417ec5fb40800000000000000
+      internalID: 5473507908172420020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_dead_6x5_20
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 87
+        width: 54
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ba004a527337740800000000000000
+      internalID: 5148519433819433801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_dead_6x5_21
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 83
+        width: 53
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6116886bfb3368970800000000000000
+      internalID: 8756743423962669334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_dead_6x5_22
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 83
+        width: 53
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fd3469e37a1e1f0800000000000000
+      internalID: -1017348153558179981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_dead_6x5_23
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 83
+        width: 53
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3844e5ad46e957270800000000000000
+      internalID: 8247672448596460675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_dead_6x5_24
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 5
+        width: 54
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf32e8263eb03ac0800000000000000
+      internalID: -3877390139342569535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      L_dead_6x5_0: -7795522082475304893
+      L_dead_6x5_1: 486715368850984965
+      L_dead_6x5_10: -5736285520017427497
+      L_dead_6x5_11: -2104922444403630261
+      L_dead_6x5_12: 2595631005891539644
+      L_dead_6x5_13: -7858517447827163959
+      L_dead_6x5_14: -3445919881669456315
+      L_dead_6x5_15: 223011434055731442
+      L_dead_6x5_16: 307614346325257624
+      L_dead_6x5_17: 8548409934540583312
+      L_dead_6x5_18: 2207614131642212866
+      L_dead_6x5_19: 5473507908172420020
+      L_dead_6x5_2: 1851849958974522808
+      L_dead_6x5_20: 5148519433819433801
+      L_dead_6x5_21: 8756743423962669334
+      L_dead_6x5_22: -1017348153558179981
+      L_dead_6x5_23: 8247672448596460675
+      L_dead_6x5_24: -3877390139342569535
+      L_dead_6x5_3: -7400406667843673345
+      L_dead_6x5_4: 8891002474989014129
+      L_dead_6x5_5: 9076371210635787278
+      L_dead_6x5_6: -4361933235474895146
+      L_dead_6x5_7: -1632044395188836874
+      L_dead_6x5_8: 2501237631250536876
+      L_dead_6x5_9: 6878507030325087093
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

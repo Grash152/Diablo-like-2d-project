@@ -1,0 +1,11 @@
+diff a/ProjectSettings/EditorBuildSettings.asset b/ProjectSettings/EditorBuildSettings.asset	(rejected hunks)
+@@ -14,8 +14,9 @@
+    - enabled: 1
+      path: Assets/Scenes/bdeb_methodo_team1.unity
+      guid: cf765aeefa5c53d49b77aaa74f93116a
+ +  - enabled: 1
+ +    path: Assets/Scenes/WinScene.unity
+ +    guid: 5d90574c18d7f584e8d4d78195f68f38
+++    
+    m_configObjects:
+      com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}

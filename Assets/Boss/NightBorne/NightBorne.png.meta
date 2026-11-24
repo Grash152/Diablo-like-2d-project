@@ -1,0 +1,1692 @@
+fileFormatVersion: 2
+guid: c6ade2942d34a06469b37389d229d31f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8804577451312863447
+    second: NightBorne_0
+  - first:
+      213: 4541750074466545783
+    second: NightBorne_1
+  - first:
+      213: -8239006915776606373
+    second: NightBorne_2
+  - first:
+      213: -4665311039209658066
+    second: NightBorne_3
+  - first:
+      213: 5201573932019284902
+    second: NightBorne_4
+  - first:
+      213: 3079978775435183711
+    second: NightBorne_5
+  - first:
+      213: -1148362564002726747
+    second: NightBorne_6
+  - first:
+      213: 5888622227354725610
+    second: NightBorne_7
+  - first:
+      213: -1202396436292935338
+    second: NightBorne_8
+  - first:
+      213: -6309155646296237868
+    second: NightBorne_9
+  - first:
+      213: -8630077547763592464
+    second: NightBorne_10
+  - first:
+      213: 8828395637555187138
+    second: NightBorne_11
+  - first:
+      213: 9163635500261087072
+    second: NightBorne_12
+  - first:
+      213: -6923885970043332651
+    second: NightBorne_13
+  - first:
+      213: 363774542823790193
+    second: NightBorne_14
+  - first:
+      213: 2294633204174513064
+    second: NightBorne_15
+  - first:
+      213: 7018995681840017482
+    second: NightBorne_16
+  - first:
+      213: 8414011603434205889
+    second: NightBorne_17
+  - first:
+      213: -3164419483077263248
+    second: NightBorne_18
+  - first:
+      213: 5083154300484032116
+    second: NightBorne_19
+  - first:
+      213: -4829220664459573023
+    second: NightBorne_20
+  - first:
+      213: -1184382605107113275
+    second: NightBorne_21
+  - first:
+      213: -5919938194821099110
+    second: NightBorne_22
+  - first:
+      213: -8770818236958866315
+    second: NightBorne_23
+  - first:
+      213: -1927809215821552941
+    second: NightBorne_24
+  - first:
+      213: -3074926159877256613
+    second: NightBorne_25
+  - first:
+      213: -8189142574560365079
+    second: NightBorne_26
+  - first:
+      213: -6492071446626870798
+    second: NightBorne_27
+  - first:
+      213: 5990439139389260119
+    second: NightBorne_28
+  - first:
+      213: -2842755984532108854
+    second: NightBorne_29
+  - first:
+      213: -120187220933850463
+    second: NightBorne_30
+  - first:
+      213: -604301505416848564
+    second: NightBorne_31
+  - first:
+      213: -3105514515409464378
+    second: NightBorne_32
+  - first:
+      213: -5063285392418353067
+    second: NightBorne_33
+  - first:
+      213: -7257403696482743351
+    second: NightBorne_34
+  - first:
+      213: 7437584850889283984
+    second: NightBorne_35
+  - first:
+      213: 8548559911559072422
+    second: NightBorne_36
+  - first:
+      213: -8965171658419641037
+    second: NightBorne_37
+  - first:
+      213: -8514666527570245238
+    second: NightBorne_38
+  - first:
+      213: 5389232431511811324
+    second: NightBorne_39
+  - first:
+      213: 5829958208077408561
+    second: NightBorne_40
+  - first:
+      213: 810612845163130981
+    second: NightBorne_41
+  - first:
+      213: 3060354622298161473
+    second: NightBorne_42
+  - first:
+      213: -4363609517831859592
+    second: NightBorne_43
+  - first:
+      213: -1159967265761478601
+    second: NightBorne_44
+  - first:
+      213: 7256534150947680899
+    second: NightBorne_45
+  - first:
+      213: 3912207925484056106
+    second: NightBorne_46
+  - first:
+      213: 2029386098945700016
+    second: NightBorne_47
+  - first:
+      213: -7705136319623115422
+    second: NightBorne_48
+  - first:
+      213: -4622668482687186571
+    second: NightBorne_49
+  - first:
+      213: 8456261001067786734
+    second: NightBorne_50
+  - first:
+      213: 7122196807548437983
+    second: NightBorne_51
+  - first:
+      213: -543444408847256576
+    second: NightBorne_52
+  - first:
+      213: 7465451782741479867
+    second: NightBorne_53
+  - first:
+      213: -2601604636754659197
+    second: NightBorne_54
+  - first:
+      213: -3884138607530488051
+    second: NightBorne_55
+  - first:
+      213: -8785807031976187778
+    second: NightBorne_56
+  - first:
+      213: -5020255782854710537
+    second: NightBorne_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 17
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NightBorne_0
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 160
+        width: 216
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9272519e47bdfc580800000000000000
+      internalID: -8804577451312863447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_1
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 160
+        width: 207
+        height: 211
+      alignment: 9
+      pivot: {x: 0.4821966, y: 0.49999985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770be2721a9870f30800000000000000
+      internalID: 4541750074466545783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_2
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 142
+        width: 227
+        height: 238
+      alignment: 9
+      pivot: {x: 0.46550143, y: 0.50580645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f062bbcda29ad80800000000000000
+      internalID: -8239006915776606373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 334
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cdc519be03c48a70800000000000000
+      internalID: 8828395637555187138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_12
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 334
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067983cbfe5cb2f70800000000000000
+      internalID: 9163635500261087072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 334
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ac5f103faa355d0800000000000000
+      internalID: -3074926159877256613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 334
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e53d4467325a5e80800000000000000
+      internalID: -8189142574560365079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_27
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 334
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9595f6a6787e5a0800000000000000
+      internalID: -6492071446626870798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_28
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 334
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751c4e798a0522350800000000000000
+      internalID: 5990439139389260119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_29
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 334
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac909de5e708c88d0800000000000000
+      internalID: -2842755984532108854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_30
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 334
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa42bdfb52055ef0800000000000000
+      internalID: -120187220933850463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_31
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 334
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b15688bf61d97f0800000000000000
+      internalID: -604301505416848564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_99
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 255
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9cceea39c7ab04e8a8aced3b8f1e54
+      internalID: -1519838806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_100
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 255
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5da135daef685d4ba7565fd7a2a6e7e
+      internalID: 723618096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_101
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 254
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0451d30b933663e4185b2b2f58e410e7
+      internalID: 311599185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_102
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 255
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d380fc331c614a469d453fbab4b1602
+      internalID: 1627774445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_103
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 254
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bdf7f31b8835048b2b9c578df25aa6
+      internalID: -62041672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_104
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 256
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1141d9b441aab439de9fa5f564da1b
+      internalID: 712161856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_135
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 174
+        width: 41
+        height: 55
+      alignment: 9
+      pivot: {x: 0.6752833, y: 0.42421404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9569508f89d0324c9da297bfa8b3417
+      internalID: 2114228848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_138
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 174
+        width: 38
+        height: 61
+      alignment: 9
+      pivot: {x: 0.6213347, y: 0.37402394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405ab742b09d1eb4084ff589ece367d7
+      internalID: -1730635559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_140
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 169
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c69a48b293a2444bf1983c51221a3a
+      internalID: -1950728130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_150
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 170
+        width: 53
+        height: 53
+      alignment: 9
+      pivot: {x: 0.4566089, y: 0.49728826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa28fbebe1356c542988667a72c7ccf4
+      internalID: -242469983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_152
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 164
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.44729868, y: 0.54311955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58254094d73310647bd9865c6b8f0dd8
+      internalID: 2014078537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_156
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 174
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb54c75501f9dd40ab6bdc261fa34f9
+      internalID: 1088220827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_157
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 162
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb974ab7de16d14c8a78021c8940eea
+      internalID: -741786818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_172
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 174
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a858325fee0ca44b9ad5d6c4ce29fb9
+      internalID: -2043954607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_173
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 174
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c62ed0c1aca4c144adee835b983b40d
+      internalID: -1203519932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_230
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 94
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e379e9765512d544f8d1b3b51611ca63
+      internalID: -260533607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_231
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 94
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22496a3064f39b647a948a2e597140ec
+      internalID: -428524934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_232
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 94
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93384fd0589cab9439d538946a0a7fc8
+      internalID: 1684262001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_233
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 94
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca5de27812a67849a3c86a08f7dc9de
+      internalID: -367650519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_234
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 94
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6585072cca693ef4482953043700cd41
+      internalID: 34513669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_235
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 5
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b1fc0185f3189498701ca5ce096638
+      internalID: -1987663862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_236
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 51
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246bb415e970e2b4694b0f079c065232
+      internalID: -1089760973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_237
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 7
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e092d35982808d4ab47a4e87f7e0c7e
+      internalID: -727498116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_238
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 14
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a6233c76891594c80ae0239510c1b1
+      internalID: 954768694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_239
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 14
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798512a3647f22f4292ac84440c0986f
+      internalID: -186112933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_240
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 14
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0bd5f39615d5b45a40fea9a6da558c
+      internalID: -1775362925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_241
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 14
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db632b8ffe38a8440a808272b5f5029f
+      internalID: -1771080163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_242
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 14
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017d379bdea6087418839efac4e94365
+      internalID: 1185884788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_243
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 14
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a93446647f517489dc2af3390fa3d6
+      internalID: 1959090269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_244
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 14
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067cc1869437a474299fdfd4772da894
+      internalID: 848753196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_245
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 14
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ad9be52720bd54c9845f665b6c08bb
+      internalID: 212394709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_246
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 14
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9757954c2d96b9d4aa44987afc8e75ab
+      internalID: 1534420194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_247
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 8
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5c7ac75dd6f95449b1302757c62245
+      internalID: 1568619677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_248
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 8
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d874d63fb21084aaf81c40d5c9724f
+      internalID: 1858389365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_249
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 8
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4380748115714844ca7a1a001df3e951
+      internalID: 1461979880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_250
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 11
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b961ce6a18ca1499739a7b4e731a4f
+      internalID: 1732814309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_251
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 15
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae65ee396fc61b24881539cf3e9076fd
+      internalID: -652305665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_252
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 16
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6edcadddc6953429a2b4826e14be82
+      internalID: 2053705681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_253
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 23
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2de6e396adeb48459ad90d1db61f2ba
+      internalID: -1449739901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_254
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 22
+        width: 91
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1d1b100877cf244b1ebd9fc1e5ae74
+      internalID: -1216879618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9ac8f4fe4ea4fe14a94aac8ee19ba23c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      NightBorne_0: -8804577451312863447
+      NightBorne_1: 4541750074466545783
+      NightBorne_10: -8630077547763592464
+      NightBorne_100: 723618096
+      NightBorne_101: 311599185
+      NightBorne_102: 1627774445
+      NightBorne_103: -62041672
+      NightBorne_104: 712161856
+      NightBorne_105: 1420396456
+      NightBorne_106: 441645962
+      NightBorne_107: 1436347314
+      NightBorne_108: -2067376641
+      NightBorne_109: -1415619846
+      NightBorne_11: 8828395637555187138
+      NightBorne_110: -914322729
+      NightBorne_111: 493847195
+      NightBorne_112: -1100079403
+      NightBorne_113: 854284968
+      NightBorne_114: 1309242121
+      NightBorne_115: -1163460494
+      NightBorne_116: -2012004528
+      NightBorne_117: 643426368
+      NightBorne_118: 211099843
+      NightBorne_119: 347868128
+      NightBorne_12: 9163635500261087072
+      NightBorne_120: 1991113355
+      NightBorne_121: 1831670224
+      NightBorne_122: 1671074390
+      NightBorne_123: 278225175
+      NightBorne_124: -1103102661
+      NightBorne_125: 76713457
+      NightBorne_126: 2082269344
+      NightBorne_127: 178043874
+      NightBorne_128: -484876337
+      NightBorne_129: -595573556
+      NightBorne_13: -6923885970043332651
+      NightBorne_130: 59878409
+      NightBorne_131: 575423552
+      NightBorne_132: -107104607
+      NightBorne_133: -1641514971
+      NightBorne_134: -122387927
+      NightBorne_135: 2114228848
+      NightBorne_136: 1988801580
+      NightBorne_137: 1425400039
+      NightBorne_138: -1730635559
+      NightBorne_139: -663948892
+      NightBorne_14: 363774542823790193
+      NightBorne_140: -1950728130
+      NightBorne_141: -1901307137
+      NightBorne_142: 854174300
+      NightBorne_143: -751373441
+      NightBorne_144: 1062551618
+      NightBorne_145: -1768593975
+      NightBorne_146: -1704979504
+      NightBorne_147: 1971060100
+      NightBorne_148: 375586072
+      NightBorne_149: -745119157
+      NightBorne_15: 2294633204174513064
+      NightBorne_150: -242469983
+      NightBorne_151: 294295680
+      NightBorne_152: 2014078537
+      NightBorne_153: -1003584756
+      NightBorne_154: -1894759267
+      NightBorne_155: 1902443215
+      NightBorne_156: 1088220827
+      NightBorne_157: -741786818
+      NightBorne_158: 1461872777
+      NightBorne_159: -376995758
+      NightBorne_16: 7018995681840017482
+      NightBorne_160: 97052330
+      NightBorne_161: 779274480
+      NightBorne_162: 1358380453
+      NightBorne_163: -1763041425
+      NightBorne_164: 1099423689
+      NightBorne_165: 527401105
+      NightBorne_166: 1847527848
+      NightBorne_167: 629341178
+      NightBorne_168: -1201785604
+      NightBorne_169: 489302198
+      NightBorne_17: 8414011603434205889
+      NightBorne_170: 2066313634
+      NightBorne_171: -190141929
+      NightBorne_172: -2043954607
+      NightBorne_173: -1203519932
+      NightBorne_174: -1975904701
+      NightBorne_175: 1657356946
+      NightBorne_176: 20029197
+      NightBorne_177: -1791325236
+      NightBorne_178: -1011342723
+      NightBorne_179: -1161301259
+      NightBorne_18: -3164419483077263248
+      NightBorne_180: 1868302262
+      NightBorne_181: 506146366
+      NightBorne_182: 1939215136
+      NightBorne_183: 828402393
+      NightBorne_184: 1793270297
+      NightBorne_185: -169835370
+      NightBorne_186: -218957289
+      NightBorne_187: 1499949658
+      NightBorne_188: -1898473140
+      NightBorne_189: 283877624
+      NightBorne_19: 5083154300484032116
+      NightBorne_190: -105325400
+      NightBorne_191: 596374510
+      NightBorne_192: -1050495658
+      NightBorne_193: -1031206603
+      NightBorne_194: 1392113452
+      NightBorne_195: 1521858593
+      NightBorne_196: 1759553161
+      NightBorne_197: -2130063724
+      NightBorne_198: 1925584153
+      NightBorne_199: 1502639173
+      NightBorne_2: -8239006915776606373
+      NightBorne_20: -4829220664459573023
+      NightBorne_200: -1342723451
+      NightBorne_201: -1597396605
+      NightBorne_202: -1256365836
+      NightBorne_203: 528342053
+      NightBorne_204: -546476785
+      NightBorne_205: 431130775
+      NightBorne_206: 1777856268
+      NightBorne_207: 624085781
+      NightBorne_208: -1940315858
+      NightBorne_209: 567570500
+      NightBorne_21: -1184382605107113275
+      NightBorne_210: 2140187596
+      NightBorne_211: -1441296543
+      NightBorne_212: 1666795087
+      NightBorne_213: 134818716
+      NightBorne_214: -801189375
+      NightBorne_215: 301896594
+      NightBorne_216: -375580942
+      NightBorne_217: 1504870141
+      NightBorne_218: -1978042405
+      NightBorne_219: -1711911217
+      NightBorne_22: -5919938194821099110
+      NightBorne_220: -1058742668
+      NightBorne_221: 1577253901
+      NightBorne_222: 582409517
+      NightBorne_223: 294316429
+      NightBorne_224: -114583540
+      NightBorne_225: 816252875
+      NightBorne_226: -146337840
+      NightBorne_227: 890995536
+      NightBorne_228: 494136874
+      NightBorne_229: 1765470250
+      NightBorne_23: -8770818236958866315
+      NightBorne_230: -260533607
+      NightBorne_231: -428524934
+      NightBorne_232: 1684262001
+      NightBorne_233: -367650519
+      NightBorne_234: 34513669
+      NightBorne_235: -1987663862
+      NightBorne_236: -1089760973
+      NightBorne_237: -727498116
+      NightBorne_238: 954768694
+      NightBorne_239: -186112933
+      NightBorne_24: -1927809215821552941
+      NightBorne_240: -1775362925
+      NightBorne_241: -1771080163
+      NightBorne_242: 1185884788
+      NightBorne_243: 1959090269
+      NightBorne_244: 848753196
+      NightBorne_245: 212394709
+      NightBorne_246: 1534420194
+      NightBorne_247: 1568619677
+      NightBorne_248: 1858389365
+      NightBorne_249: 1461979880
+      NightBorne_25: -3074926159877256613
+      NightBorne_250: 1732814309
+      NightBorne_251: -652305665
+      NightBorne_252: 2053705681
+      NightBorne_253: -1449739901
+      NightBorne_254: -1216879618
+      NightBorne_26: -8189142574560365079
+      NightBorne_27: -6492071446626870798
+      NightBorne_28: 5990439139389260119
+      NightBorne_29: -2842755984532108854
+      NightBorne_3: -4665311039209658066
+      NightBorne_30: -120187220933850463
+      NightBorne_31: -604301505416848564
+      NightBorne_32: -3105514515409464378
+      NightBorne_33: -5063285392418353067
+      NightBorne_34: -7257403696482743351
+      NightBorne_35: 7437584850889283984
+      NightBorne_36: 8548559911559072422
+      NightBorne_37: -8965171658419641037
+      NightBorne_38: -8514666527570245238
+      NightBorne_39: 5389232431511811324
+      NightBorne_4: 5201573932019284902
+      NightBorne_40: 5829958208077408561
+      NightBorne_41: 810612845163130981
+      NightBorne_42: 3060354622298161473
+      NightBorne_43: -4363609517831859592
+      NightBorne_44: -1159967265761478601
+      NightBorne_45: 7256534150947680899
+      NightBorne_46: 3912207925484056106
+      NightBorne_47: 2029386098945700016
+      NightBorne_48: -7705136319623115422
+      NightBorne_49: -4622668482687186571
+      NightBorne_5: 3079978775435183711
+      NightBorne_50: 8456261001067786734
+      NightBorne_51: 7122196807548437983
+      NightBorne_52: -543444408847256576
+      NightBorne_53: 7465451782741479867
+      NightBorne_54: -2601604636754659197
+      NightBorne_55: -3884138607530488051
+      NightBorne_56: -8785807031976187778
+      NightBorne_57: -5020255782854710537
+      NightBorne_58: 616253915
+      NightBorne_59: 655264501
+      NightBorne_6: -1148362564002726747
+      NightBorne_60: -1036693646
+      NightBorne_61: 1496892653
+      NightBorne_62: 1845404158
+      NightBorne_63: -2094800927
+      NightBorne_64: 276936333
+      NightBorne_65: 524967791
+      NightBorne_66: 333443418
+      NightBorne_67: -1588895797
+      NightBorne_68: 1997797902
+      NightBorne_69: -70442222
+      NightBorne_7: 5888622227354725610
+      NightBorne_70: -521894663
+      NightBorne_71: -933416900
+      NightBorne_72: 475109558
+      NightBorne_73: 1285905026
+      NightBorne_74: -1295082160
+      NightBorne_75: -1792403973
+      NightBorne_76: -1585201107
+      NightBorne_77: -618919931
+      NightBorne_78: -1853505025
+      NightBorne_79: 17898549
+      NightBorne_8: -1202396436292935338
+      NightBorne_80: 580468519
+      NightBorne_81: -1661444952
+      NightBorne_82: -2063024347
+      NightBorne_83: -599048091
+      NightBorne_84: 1797593464
+      NightBorne_85: -932394556
+      NightBorne_86: -115654831
+      NightBorne_87: 570382422
+      NightBorne_88: -326073057
+      NightBorne_89: -2108136230
+      NightBorne_9: -6309155646296237868
+      NightBorne_90: -1525703268
+      NightBorne_91: -82419502
+      NightBorne_92: 1959041160
+      NightBorne_93: -719770198
+      NightBorne_94: -832067720
+      NightBorne_95: 2016874451
+      NightBorne_96: -649580109
+      NightBorne_97: 561772685
+      NightBorne_98: 1150199444
+      NightBorne_99: -1519838806
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

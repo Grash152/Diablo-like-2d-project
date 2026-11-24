@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: 85cd9d82a05effe4c8c6d16f90af1781
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8866154678693163472
+    second: HeroinIdle_0
+  - first:
+      213: -8705168619066014535
+    second: HeroinIdle_1
+  - first:
+      213: 5707654108989244240
+    second: HeroinIdle_2
+  - first:
+      213: -2356674931066106664
+    second: HeroinIdle_3
+  - first:
+      213: -4144800208883847100
+    second: HeroinIdle_4
+  - first:
+      213: -4710921468056265558
+    second: HeroinIdle_5
+  - first:
+      213: -4582479884349235653
+    second: HeroinIdle_6
+  - first:
+      213: 5292541427394295125
+    second: HeroinIdle_7
+  - first:
+      213: 8982075824202849657
+    second: HeroinIdle_8
+  - first:
+      213: 5057476434673503285
+    second: HeroinIdle_9
+  - first:
+      213: 3943299005501941278
+    second: HeroinIdle_10
+  - first:
+      213: 3405649165488035377
+    second: HeroinIdle_11
+  - first:
+      213: -1035148394336697292
+    second: HeroinIdle_12
+  - first:
+      213: 1127652402672010314
+    second: HeroinIdle_13
+  - first:
+      213: 7993142677065174315
+    second: HeroinIdle_14
+  - first:
+      213: 3140399776249089017
+    second: HeroinIdle_15
+  - first:
+      213: 898933525738927616
+    second: HeroinIdle_16
+  - first:
+      213: 4514651083151277760
+    second: HeroinIdle_17
+  - first:
+      213: 6367088525821619410
+    second: HeroinIdle_18
+  - first:
+      213: 6614949819473229431
+    second: HeroinIdle_19
+  - first:
+      213: 1526136442217002306
+    second: HeroinIdle_20
+  - first:
+      213: 208258367062737213
+    second: HeroinIdle_21
+  - first:
+      213: -7730985222809252825
+    second: HeroinIdle_22
+  - first:
+      213: -5024872058263104315
+    second: HeroinIdle_23
+  - first:
+      213: 1206181102470864253
+    second: HeroinIdle_24
+  - first:
+      213: -4046637418365215413
+    second: HeroinIdle_25
+  - first:
+      213: -5268527091009149188
+    second: HeroinIdle_26
+  - first:
+      213: -6253791964161718134
+    second: HeroinIdle_27
+  - first:
+      213: 416762390975300598
+    second: HeroinIdle_28
+  - first:
+      213: -4453987833906003861
+    second: HeroinIdle_29
+  - first:
+      213: -6455295288272024032
+    second: HeroinIdle_30
+  - first:
+      213: -4029797661126043504
+    second: HeroinIdle_31
+  - first:
+      213: 1171922393358361598
+    second: HeroinIdle_32
+  - first:
+      213: -2392091324854986159
+    second: HeroinIdle_33
+  - first:
+      213: -5499966174609834417
+    second: HeroinIdle_34
+  - first:
+      213: -417429792947917487
+    second: HeroinIdle_35
+  - first:
+      213: -1669368251278263859
+    second: HeroinIdle_36
+  - first:
+      213: -5216620598502764759
+    second: HeroinIdle_37
+  - first:
+      213: -5293486721083028953
+    second: HeroinIdle_38
+  - first:
+      213: -1356146609496123017
+    second: HeroinIdle_39
+  - first:
+      213: -7244043441477224684
+    second: HeroinIdle_40
+  - first:
+      213: 6858754134860154421
+    second: HeroinIdle_41
+  - first:
+      213: 4025079368446538735
+    second: HeroinIdle_42
+  - first:
+      213: -6953693927140403559
+    second: HeroinIdle_43
+  - first:
+      213: 4410716140113624027
+    second: HeroinIdle_44
+  - first:
+      213: -2606647743098106739
+    second: HeroinIdle_45
+  - first:
+      213: 3560994373982754115
+    second: HeroinIdle_46
+  - first:
+      213: 7219853455494945121
+    second: HeroinIdle_47
+  - first:
+      213: -6241413775629372347
+    second: HeroinIdle_48
+  - first:
+      213: -2418412331150197167
+    second: HeroinIdle_49
+  - first:
+      213: -6105866190654538693
+    second: HeroinIdle_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeroinIdle_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 287
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e83dc6b4715f480800000000000000
+      internalID: -8866154678693163472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 287
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b441be4347013780800000000000000
+      internalID: -8705168619066014535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 287
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0534a13fb29a53f40800000000000000
+      internalID: 5707654108989244240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 287
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc8cbae2a86b4fd0800000000000000
+      internalID: -2356674931066106664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 287
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440738c8b26ba76c0800000000000000
+      internalID: -4144800208883847100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 287
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac9eb362e17f9eb0800000000000000
+      internalID: -4710921468056265558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 287
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e9dfef2d2c760c0800000000000000
+      internalID: -4582479884349235653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_7
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 287
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55530ea1362e27940800000000000000
+      internalID: 5292541427394295125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 239
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d1c3f7f5eb6ac70800000000000000
+      internalID: 8982075824202849657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_9
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 239
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c8f9c8504cf2640800000000000000
+      internalID: 5057476434673503285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_10
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 239
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1628129d8969b630800000000000000
+      internalID: 3943299005501941278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_11
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 239
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13615824fdb434f20800000000000000
+      internalID: 3405649165488035377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_12
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 239
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434ceb1150a62a1f0800000000000000
+      internalID: -1035148394336697292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_13
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 239
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44816bb2e936af00800000000000000
+      internalID: 1127652402672010314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_14
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 239
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d0c715ae85dee60800000000000000
+      internalID: 7993142677065174315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_15
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 239
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb0b0c35f0f49b20800000000000000
+      internalID: 3140399776249089017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 191
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006bb566747a97c00800000000000000
+      internalID: 898933525738927616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_17
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 191
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce70109d3347ae30800000000000000
+      internalID: 4514651083151277760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_18
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 191
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc201ba7417c5850800000000000000
+      internalID: 6367088525821619410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_19
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 191
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7767cb430d50dcb50800000000000000
+      internalID: 6614949819473229431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_20
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 191
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2457f15220ded2510800000000000000
+      internalID: 1526136442217002306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_21
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 191
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d310746a1e1e3e200800000000000000
+      internalID: 208258367062737213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_22
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 191
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c09ae76e506b490800000000000000
+      internalID: -7730985222809252825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_23
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 191
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c411756c71144ab0800000000000000
+      internalID: -5024872058263104315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 143
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d909372573db010800000000000000
+      internalID: 1206181102470864253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_25
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 143
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d998f35b477d7c0800000000000000
+      internalID: -4046637418365215413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_26
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 143
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6a0ea468e62e6b0800000000000000
+      internalID: -5268527091009149188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_27
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 143
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88c2f4b7511639a0800000000000000
+      internalID: -6253791964161718134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_28
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 143
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f343ddbf23a8c500800000000000000
+      internalID: 416762390975300598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_29
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 143
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b600f1ec9a14032c0800000000000000
+      internalID: -4453987833906003861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_30
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 143
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e0b4e032f2a66a0800000000000000
+      internalID: -6455295288272024032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_31
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 143
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098d1e3c0684318c0800000000000000
+      internalID: -4029797661126043504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 95
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef363782531834010800000000000000
+      internalID: 1171922393358361598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_33
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 95
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a99b72d959dced0800000000000000
+      internalID: -2392091324854986159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_34
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 95
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e77bd77e13ca3b0800000000000000
+      internalID: -5499966174609834417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_35
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 95
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15daca0a0ddf43af0800000000000000
+      internalID: -417429792947917487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_36
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 95
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc97e3f8b6635d8e0800000000000000
+      internalID: -1669368251278263859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_37
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 95
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fc14a5437da97b0800000000000000
+      internalID: -5216620598502764759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_38
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 95
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a499e8fd1c986b0800000000000000
+      internalID: -5293486721083028953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_39
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 95
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77912a508dffd2de0800000000000000
+      internalID: -1356146609496123017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 47
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417704ddedcf77b90800000000000000
+      internalID: -7244043441477224684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_41
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 47
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536c412eb803f2f50800000000000000
+      internalID: 6858754134860154421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_42
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 47
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3720d1c54fbd730800000000000000
+      internalID: 4025079368446538735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_43
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 47
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996510c27348f7f90800000000000000
+      internalID: -6953693927140403559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_44
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 47
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbfd80e5f2063d30800000000000000
+      internalID: 4410716140113624027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_45
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 47
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c401230b353dbd0800000000000000
+      internalID: -2606647743098106739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_46
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 47
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345186424813b6130800000000000000
+      internalID: 3560994373982754115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_47
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 47
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16917212772123460800000000000000
+      internalID: 7219853455494945121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544b16f4d3b0269a0800000000000000
+      internalID: -6241413775629372347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_49
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e3e515cc2107ed0800000000000000
+      internalID: -2418412331150197167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroinIdle_50
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3cf7f3cc0b934ba0800000000000000
+      internalID: -6105866190654538693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HeroinIdle_0: -8866154678693163472
+      HeroinIdle_1: -8705168619066014535
+      HeroinIdle_10: 3943299005501941278
+      HeroinIdle_11: 3405649165488035377
+      HeroinIdle_12: -1035148394336697292
+      HeroinIdle_13: 1127652402672010314
+      HeroinIdle_14: 7993142677065174315
+      HeroinIdle_15: 3140399776249089017
+      HeroinIdle_16: 898933525738927616
+      HeroinIdle_17: 4514651083151277760
+      HeroinIdle_18: 6367088525821619410
+      HeroinIdle_19: 6614949819473229431
+      HeroinIdle_2: 5707654108989244240
+      HeroinIdle_20: 1526136442217002306
+      HeroinIdle_21: 208258367062737213
+      HeroinIdle_22: -7730985222809252825
+      HeroinIdle_23: -5024872058263104315
+      HeroinIdle_24: 1206181102470864253
+      HeroinIdle_25: -4046637418365215413
+      HeroinIdle_26: -5268527091009149188
+      HeroinIdle_27: -6253791964161718134
+      HeroinIdle_28: 416762390975300598
+      HeroinIdle_29: -4453987833906003861
+      HeroinIdle_3: -2356674931066106664
+      HeroinIdle_30: -6455295288272024032
+      HeroinIdle_31: -4029797661126043504
+      HeroinIdle_32: 1171922393358361598
+      HeroinIdle_33: -2392091324854986159
+      HeroinIdle_34: -5499966174609834417
+      HeroinIdle_35: -417429792947917487
+      HeroinIdle_36: -1669368251278263859
+      HeroinIdle_37: -5216620598502764759
+      HeroinIdle_38: -5293486721083028953
+      HeroinIdle_39: -1356146609496123017
+      HeroinIdle_4: -4144800208883847100
+      HeroinIdle_40: -7244043441477224684
+      HeroinIdle_41: 6858754134860154421
+      HeroinIdle_42: 4025079368446538735
+      HeroinIdle_43: -6953693927140403559
+      HeroinIdle_44: 4410716140113624027
+      HeroinIdle_45: -2606647743098106739
+      HeroinIdle_46: 3560994373982754115
+      HeroinIdle_47: 7219853455494945121
+      HeroinIdle_48: -6241413775629372347
+      HeroinIdle_49: -2418412331150197167
+      HeroinIdle_5: -4710921468056265558
+      HeroinIdle_50: -6105866190654538693
+      HeroinIdle_6: -4582479884349235653
+      HeroinIdle_7: 5292541427394295125
+      HeroinIdle_8: 8982075824202849657
+      HeroinIdle_9: 5057476434673503285
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

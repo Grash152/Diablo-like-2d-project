@@ -1,0 +1,1656 @@
+fileFormatVersion: 2
+guid: 015b008b19f1a044baf12b92f416445f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7775996310644853102
+    second: L_attack_s_8x8_0
+  - first:
+      213: -9006771325974325654
+    second: L_attack_s_8x8_1
+  - first:
+      213: -8147914532977158712
+    second: L_attack_s_8x8_2
+  - first:
+      213: -6517215872111613620
+    second: L_attack_s_8x8_3
+  - first:
+      213: 15930461439089418
+    second: L_attack_s_8x8_4
+  - first:
+      213: 8446422093205577877
+    second: L_attack_s_8x8_5
+  - first:
+      213: 7882185168423791355
+    second: L_attack_s_8x8_6
+  - first:
+      213: 3609606145934715771
+    second: L_attack_s_8x8_7
+  - first:
+      213: -5789042846304595162
+    second: L_attack_s_8x8_8
+  - first:
+      213: 6291750575198462009
+    second: L_attack_s_8x8_9
+  - first:
+      213: -6295387415542343040
+    second: L_attack_s_8x8_10
+  - first:
+      213: 5126818710195457875
+    second: L_attack_s_8x8_11
+  - first:
+      213: -3577806600562336354
+    second: L_attack_s_8x8_12
+  - first:
+      213: 6350642705868361196
+    second: L_attack_s_8x8_13
+  - first:
+      213: 2375977557528471822
+    second: L_attack_s_8x8_14
+  - first:
+      213: -7800831189429315609
+    second: L_attack_s_8x8_15
+  - first:
+      213: 3844501280732327164
+    second: L_attack_s_8x8_16
+  - first:
+      213: 2073850280559268218
+    second: L_attack_s_8x8_17
+  - first:
+      213: 4900186958803261506
+    second: L_attack_s_8x8_18
+  - first:
+      213: -8062935667231337743
+    second: L_attack_s_8x8_19
+  - first:
+      213: 2708505753207044455
+    second: L_attack_s_8x8_20
+  - first:
+      213: 8910786475876000610
+    second: L_attack_s_8x8_21
+  - first:
+      213: 5860696389746771122
+    second: L_attack_s_8x8_22
+  - first:
+      213: -136001750737182066
+    second: L_attack_s_8x8_23
+  - first:
+      213: 6162070485779595376
+    second: L_attack_s_8x8_24
+  - first:
+      213: 2218072980941143473
+    second: L_attack_s_8x8_25
+  - first:
+      213: 4244294497316323072
+    second: L_attack_s_8x8_26
+  - first:
+      213: -453738070717609610
+    second: L_attack_s_8x8_27
+  - first:
+      213: 2225917082346332338
+    second: L_attack_s_8x8_28
+  - first:
+      213: 1863629749564922300
+    second: L_attack_s_8x8_29
+  - first:
+      213: 8462042195134307599
+    second: L_attack_s_8x8_30
+  - first:
+      213: 5714962554170309251
+    second: L_attack_s_8x8_31
+  - first:
+      213: 1020437086891968108
+    second: L_attack_s_8x8_32
+  - first:
+      213: 6102401645681119203
+    second: L_attack_s_8x8_33
+  - first:
+      213: -6875630104904028520
+    second: L_attack_s_8x8_34
+  - first:
+      213: -2119203605929879093
+    second: L_attack_s_8x8_35
+  - first:
+      213: 7881704869831007212
+    second: L_attack_s_8x8_36
+  - first:
+      213: -4584636097752684315
+    second: L_attack_s_8x8_37
+  - first:
+      213: -1526766785993879672
+    second: L_attack_s_8x8_38
+  - first:
+      213: -5213658495098175277
+    second: L_attack_s_8x8_39
+  - first:
+      213: -8056759215620230606
+    second: L_attack_s_8x8_40
+  - first:
+      213: 7913435222538687978
+    second: L_attack_s_8x8_41
+  - first:
+      213: -8439133589218190740
+    second: L_attack_s_8x8_42
+  - first:
+      213: -3374864182757069904
+    second: L_attack_s_8x8_43
+  - first:
+      213: 2373637533885161500
+    second: L_attack_s_8x8_44
+  - first:
+      213: 4404712339715630308
+    second: L_attack_s_8x8_45
+  - first:
+      213: -5423773535126917981
+    second: L_attack_s_8x8_46
+  - first:
+      213: -2656309188855987238
+    second: L_attack_s_8x8_47
+  - first:
+      213: -616477288198037929
+    second: L_attack_s_8x8_48
+  - first:
+      213: 916676256975970443
+    second: L_attack_s_8x8_49
+  - first:
+      213: 109691741093926888
+    second: L_attack_s_8x8_50
+  - first:
+      213: 605672236621986446
+    second: L_attack_s_8x8_51
+  - first:
+      213: -3967579624503755563
+    second: L_attack_s_8x8_52
+  - first:
+      213: 2741010100124023716
+    second: L_attack_s_8x8_53
+  - first:
+      213: 549785806514736709
+    second: L_attack_s_8x8_54
+  - first:
+      213: -3665491062187107339
+    second: L_attack_s_8x8_55
+  - first:
+      213: 6530757081804614852
+    second: L_attack_s_8x8_56
+  - first:
+      213: 5318773840869592491
+    second: L_attack_s_8x8_57
+  - first:
+      213: 8332902497614518677
+    second: L_attack_s_8x8_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeroineAttack1_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 750
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd936e87f8915240b48e8f233d87563
+      internalID: 236348783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 750
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5532898, y: 0.5242218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c29483a9a3ecc4684b31626404e962
+      internalID: 115771428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_2
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 750
+        width: 32
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5968895, y: 0.45693767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a981cef2c461fc746969c28fd1ebf41a
+      internalID: 1381894221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_3
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 746
+        width: 35
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5609532, y: 0.4962972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f5d9c337653984ea134b8a0681e036
+      internalID: 1420519707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_4
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 750
+        width: 45
+        height: 37
+      alignment: 9
+      pivot: {x: 0.6738295, y: 0.5336353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16edac8873a0b364f98fa8e561d91b76
+      internalID: -1534694337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_5
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 750
+        width: 48
+        height: 37
+      alignment: 9
+      pivot: {x: 0.7208646, y: 0.5044061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4af24c137ddb8741b787eecc797d06f
+      internalID: 1095975756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_6
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 750
+        width: 48
+        height: 37
+      alignment: 9
+      pivot: {x: 0.71305466, y: 0.5141717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed81fbae4a770a14aa52bb715563798a
+      internalID: 2147023045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_7
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 750
+        width: 48
+        height: 37
+      alignment: 9
+      pivot: {x: 0.6912028, y: 0.4858217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48dfc2af138177140844dc9f3cd7967e
+      internalID: -891154546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 648
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e73420c2f579304c9a9eb9be2dbdd95
+      internalID: 2111962552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 648
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e72e7446a1770746888bc0a85c074ec
+      internalID: -1648300319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 648
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bafd65cd3c8ed41aad9a0738421b0b
+      internalID: 1871701999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_11
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 648
+        width: 47
+        height: 35
+      alignment: 9
+      pivot: {x: 0.6729548, y: 0.48501325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0aff96710eb694096797b53a5a7a5c
+      internalID: 468370213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_12
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 648
+        width: 47
+        height: 35
+      alignment: 9
+      pivot: {x: 0.65621495, y: 0.5074847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce4dc505b2194c4fb3b2b5f361dfa2e
+      internalID: -755823231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_13
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 648
+        width: 46
+        height: 35
+      alignment: 9
+      pivot: {x: 0.64821196, y: 0.4925049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6798b7ae30f7e4c93acc517191abde
+      internalID: 1109071168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_14
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 648
+        width: 46
+        height: 35
+      alignment: 9
+      pivot: {x: 0.6425105, y: 0.4925049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eab60ff119bd8348be64bc3865a43f5
+      internalID: -1803726586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_15
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 648
+        width: 46
+        height: 35
+      alignment: 9
+      pivot: {x: 0.65391076, y: 0.47751987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7953856cc43c7824880d01d3f25474fa
+      internalID: 111816504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_16
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 545
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d471a1ce92e45240bc2c132deca25e7
+      internalID: 598713323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_17
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 545
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be52306bb0125cb428fea9161221131d
+      internalID: 58856127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_18
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 545
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9267dee1182b6fb4c8648b857883ecc5
+      internalID: 621289071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_19
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 544
+        width: 48
+        height: 38
+      alignment: 9
+      pivot: {x: 0.603796, y: 0.5068986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1307096ed71a6e4ebc009cf58a94330
+      internalID: 996410770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_20
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 532
+        width: 37
+        height: 52
+      alignment: 9
+      pivot: {x: 0.3440799, y: 0.6411966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f91cab11938c3b4a88f76d3eb2dff8b
+      internalID: -2136058833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_21
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 532
+        width: 37
+        height: 52
+      alignment: 9
+      pivot: {x: 0.3653416, y: 0.6411966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3d41caa946283419e82d31ca1ed92f
+      internalID: 264575211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_22
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 546
+        width: 70
+        height: 36
+      alignment: 9
+      pivot: {x: 0.15976214, y: 0.47327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19dfd8cf43d8bf4f9c9c5cc95188c09
+      internalID: 1608160346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_23
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 546
+        width: 70
+        height: 36
+      alignment: 9
+      pivot: {x: 0.16717966, y: 0.5053474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b948cf7361e660545a70871fc7356cc1
+      internalID: 1408913452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_24
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 444
+        width: 50
+        height: 33
+      alignment: 9
+      pivot: {x: 0.57821023, y: 0.47629893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3fed843a18eee4899892fa8232ab62
+      internalID: -255772045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_25
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 444
+        width: 51
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5766769, y: 0.49999908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba95c5efc231eb34f85d9e34557f0347
+      internalID: -120147619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_26
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 444
+        width: 50
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6113385, y: 0.48795018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609bb5b099b3c304fbce48f2da1b9fd2
+      internalID: 1051173737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_27
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 444
+        width: 49
+        height: 33
+      alignment: 9
+      pivot: {x: 0.61361074, y: 0.48795018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb12eaeb8428d0e479e17f53e614ee60
+      internalID: -620923415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_28
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 444
+        width: 49
+        height: 34
+      alignment: 9
+      pivot: {x: 0.6564618, y: 0.47800133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97412f0f7a5cc64190400531260b0d7
+      internalID: 700674856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_29
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 444
+        width: 48
+        height: 34
+      alignment: 9
+      pivot: {x: 0.6613579, y: 0.49400598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59b2a32e35833f4ca8cec859276e89d
+      internalID: 842950050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_30
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 444
+        width: 47
+        height: 35
+      alignment: 9
+      pivot: {x: 0.6309126, y: 0.4902335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c656e8394ea1822419e13f20585e33eb
+      internalID: -337728752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_31
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 444
+        width: 46
+        height: 35
+      alignment: 9
+      pivot: {x: 0.6486206, y: 0.480467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147f886162ac2e64cb793b53fbed93c1
+      internalID: -1725331576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_32
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 342
+        width: 46
+        height: 35
+      alignment: 9
+      pivot: {x: 0.65112257, y: 0.48411167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13273d3dee000734c8943c2386dd4497
+      internalID: 268574039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_33
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 342
+        width: 46
+        height: 35
+      alignment: 9
+      pivot: {x: 0.6571675, y: 0.48411167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc064c720d769c741bc35d45b0986389
+      internalID: -1589531195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_34
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 342
+        width: 45
+        height: 35
+      alignment: 9
+      pivot: {x: 0.6483032, y: 0.52383685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6724d1fbbc2ce47b37f6abdc980f4f
+      internalID: -1556174340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_35
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 342
+        width: 45
+        height: 35
+      alignment: 9
+      pivot: {x: 0.64830256, y: 0.5079459}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80ee16377e0a4c45ada16d28352882b
+      internalID: -1567322374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_36
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 342
+        width: 45
+        height: 35
+      alignment: 9
+      pivot: {x: 0.63828534, y: 0.5222238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e928b8c5085104ab7457d14c911dfb
+      internalID: -1645753308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_37
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 342
+        width: 45
+        height: 35
+      alignment: 9
+      pivot: {x: 0.6440484, y: 0.5074079}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5de032d558cb384e857a83135fb400c
+      internalID: -907261159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_38
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 342
+        width: 44
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5830175, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba5524a706b5d6418445178f00c2767
+      internalID: -1341849234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_39
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 342
+        width: 42
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5760992, y: 0.51268345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927585c1a5445e34c8ff778dfa5e61ef
+      internalID: 2069233772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_40
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 240
+        width: 39
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5393041, y: 0.4027948}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f922291ac9f1cb43a1d2b7ec12284e9
+      internalID: 1826847374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_41
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 240
+        width: 36
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5185649, y: 0.39603814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5a61699bffdd6468d241cac7e1e36f
+      internalID: 183755370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_42
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 240
+        width: 32
+        height: 49
+      alignment: 9
+      pivot: {x: 0.44271088, y: 0.37840924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5699766576c05694f8ae7483b8d25c83
+      internalID: -2117530746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_43
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 240
+        width: 29
+        height: 51
+      alignment: 9
+      pivot: {x: 0.388031, y: 0.34817505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0c031b51bbc064a8ceb1b9caad8960
+      internalID: 946955000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_44
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 240
+        width: 27
+        height: 51
+      alignment: 9
+      pivot: {x: 0.3487481, y: 0.3238358}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a74b11487827ba47bd2583ea4af9d9a
+      internalID: 987081157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_45
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 240
+        width: 27
+        height: 52
+      alignment: 9
+      pivot: {x: 0.33867052, y: 0.35340235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae78f973fb44854b8d70a7d8a03ed5e
+      internalID: -1714158450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_46
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 240
+        width: 38
+        height: 41
+      alignment: 9
+      pivot: {x: 0.2635707, y: 0.44023764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4527f75308c484596d742fb415aa71
+      internalID: 1261841497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_47
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 240
+        width: 46
+        height: 36
+      alignment: 9
+      pivot: {x: 0.20407237, y: 0.5075633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e67535fc6d72a9428793c1355981ea2
+      internalID: 578549767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_48
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 138
+        width: 48
+        height: 37
+      alignment: 9
+      pivot: {x: 0.28347707, y: 0.5090612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6321c1da9196fe40a25dbb8008d2ac3
+      internalID: -417957653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_49
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 138
+        width: 47
+        height: 38
+      alignment: 9
+      pivot: {x: 0.42866808, y: 0.5000004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006352df5ca74d044b399ad92e86bb55
+      internalID: -2100692781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_50
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 117
+        width: 27
+        height: 60
+      alignment: 9
+      pivot: {x: 0.4254987, y: 0.6899811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbbd2aa3babd8144a2ab2511e3ea2d7
+      internalID: 1940659572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_51
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 133
+        width: 50
+        height: 44
+      alignment: 9
+      pivot: {x: 0.7011572, y: 0.5838155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a01c304265ade249a69cee8bdb7f236
+      internalID: -741389846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_52
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 138
+        width: 49
+        height: 39
+      alignment: 9
+      pivot: {x: 0.6847372, y: 0.53438586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040a5c7765173414ab9d411ad37b47a1
+      internalID: -1970923415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_53
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 138
+        width: 28
+        height: 49
+      alignment: 9
+      pivot: {x: 0.44013324, y: 0.4315793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d1623c68570a04ebae3f3715fa6ef7
+      internalID: -1077767081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_54
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 138
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf7755fd4c576d4ea730e676b4f9cb8
+      internalID: 753580606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_55
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 138
+        width: 46
+        height: 40
+      alignment: 9
+      pivot: {x: 0.45691448, y: 0.53963965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bad3e2771a4fa74188ad5db15e3b570
+      internalID: 711717974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_56
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 36
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e6e54769d764f4ead4f1cd9e337fe2
+      internalID: 1735451199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_57
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 36
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d434d4bf45e77584e9f504c6ba079684
+      internalID: -431634576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroineAttack1_58
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 36
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8744c98eb2477d24bb0968581d2f8732
+      internalID: 1934538093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a829ee26225148a409bdee1ec2e5b47a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+      - key: SpriteEditor.SliceOnImport
+        value: False
+    nameFileIdTable:
+      HeroineAttack1_0: 236348783
+      HeroineAttack1_1: 115771428
+      HeroineAttack1_10: 1871701999
+      HeroineAttack1_11: 468370213
+      HeroineAttack1_12: -755823231
+      HeroineAttack1_13: 1109071168
+      HeroineAttack1_14: -1803726586
+      HeroineAttack1_15: 111816504
+      HeroineAttack1_16: 598713323
+      HeroineAttack1_17: 58856127
+      HeroineAttack1_18: 621289071
+      HeroineAttack1_19: 996410770
+      HeroineAttack1_2: 1381894221
+      HeroineAttack1_20: -2136058833
+      HeroineAttack1_21: 264575211
+      HeroineAttack1_22: 1608160346
+      HeroineAttack1_23: 1408913452
+      HeroineAttack1_24: -255772045
+      HeroineAttack1_25: -120147619
+      HeroineAttack1_26: 1051173737
+      HeroineAttack1_27: -620923415
+      HeroineAttack1_28: 700674856
+      HeroineAttack1_29: 842950050
+      HeroineAttack1_3: 1420519707
+      HeroineAttack1_30: -337728752
+      HeroineAttack1_31: -1725331576
+      HeroineAttack1_32: 268574039
+      HeroineAttack1_33: -1589531195
+      HeroineAttack1_34: -1556174340
+      HeroineAttack1_35: -1567322374
+      HeroineAttack1_36: -1645753308
+      HeroineAttack1_37: -907261159
+      HeroineAttack1_38: -1341849234
+      HeroineAttack1_39: 2069233772
+      HeroineAttack1_4: -1534694337
+      HeroineAttack1_40: 1826847374
+      HeroineAttack1_41: 183755370
+      HeroineAttack1_42: -2117530746
+      HeroineAttack1_43: 946955000
+      HeroineAttack1_44: 987081157
+      HeroineAttack1_45: -1714158450
+      HeroineAttack1_46: 1261841497
+      HeroineAttack1_47: 578549767
+      HeroineAttack1_48: -417957653
+      HeroineAttack1_49: -2100692781
+      HeroineAttack1_5: 1095975756
+      HeroineAttack1_50: 1940659572
+      HeroineAttack1_51: -741389846
+      HeroineAttack1_52: -1970923415
+      HeroineAttack1_53: -1077767081
+      HeroineAttack1_54: 753580606
+      HeroineAttack1_55: 711717974
+      HeroineAttack1_56: 1735451199
+      HeroineAttack1_57: -431634576
+      HeroineAttack1_58: 1934538093
+      HeroineAttack1_59: -1695509405
+      HeroineAttack1_6: 2147023045
+      HeroineAttack1_7: -891154546
+      HeroineAttack1_8: 2111962552
+      HeroineAttack1_9: -1648300319
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
